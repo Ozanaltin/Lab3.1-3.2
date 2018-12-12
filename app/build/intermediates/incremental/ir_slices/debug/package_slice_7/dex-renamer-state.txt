@@ -1,0 +1,4 @@
+#Mon Dec 10 19:12:35 PST 2018
+base.0=/Users/ozan/AndroidStudioProjects/SimpleCalc/app/build/intermediates/transforms/dexMerger/debug/7
+path.0=classes.dex
+renamed.0=classes.dex

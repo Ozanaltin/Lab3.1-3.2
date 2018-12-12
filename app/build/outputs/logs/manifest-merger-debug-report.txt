@@ -1,0 +1,96 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ozan/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /Users/ozan/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /Users/ozan/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /Users/ozan/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/ozan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/430dedda14b6e41764e63385bd9f2768/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/ozan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/61c40b45fe0ad6f72b440e98441537bb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/ozan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e5c256acf973f04c17ea9eb28d407a2b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/ozan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/c71d3e1fc9322764e8328de675e2411f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/ozan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/5c687439a185022e3c1eec181e569978/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/ozan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/f1d0cc71650bcf2adcb3b86069dfb8b7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/ozan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/32ff8253e7c0b77ea4b29296cbfc2998/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ozan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/c353260beee4b48b9a8dbcf3b54295f8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ozan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/ae933c49813a09d6fc4fe3396b17ba35/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/ozan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4a12e0953e8de9e7245a817f9460129e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/ozan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f3d237e6076bff8f34369fd6aa47edbe/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/ozan/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /Users/ozan/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /Users/ozan/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+	package
+		ADDED from /Users/ozan/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml:18:5-45
+		INJECTED from /Users/ozan/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ozan/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ozan/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ozan/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+		INJECTED from /Users/ozan/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/ozan/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ozan/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+		INJECTED from /Users/ozan/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ozan/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml:17:11-69
+application
+ADDED from /Users/ozan/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml:20:5-32:19
+	android:supportsRtl
+		ADDED from /Users/ozan/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from /Users/ozan/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from /Users/ozan/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from /Users/ozan/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from /Users/ozan/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml:25:9-40
+activity#com.example.android.SimpleCalc.MainActivity
+ADDED from /Users/ozan/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml:26:9-31:20
+	android:name
+		ADDED from /Users/ozan/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml:26:19-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ozan/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/ozan/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /Users/ozan/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ozan/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /Users/ozan/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from /Users/ozan/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ozan/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ozan/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/ozan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/430dedda14b6e41764e63385bd9f2768/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/ozan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/430dedda14b6e41764e63385bd9f2768/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/ozan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/61c40b45fe0ad6f72b440e98441537bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/ozan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/61c40b45fe0ad6f72b440e98441537bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/ozan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e5c256acf973f04c17ea9eb28d407a2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/ozan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e5c256acf973f04c17ea9eb28d407a2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/ozan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/c71d3e1fc9322764e8328de675e2411f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/ozan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/c71d3e1fc9322764e8328de675e2411f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/ozan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/5c687439a185022e3c1eec181e569978/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/ozan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/5c687439a185022e3c1eec181e569978/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/ozan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/f1d0cc71650bcf2adcb3b86069dfb8b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/ozan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/f1d0cc71650bcf2adcb3b86069dfb8b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/ozan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/32ff8253e7c0b77ea4b29296cbfc2998/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/ozan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/32ff8253e7c0b77ea4b29296cbfc2998/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ozan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/c353260beee4b48b9a8dbcf3b54295f8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ozan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/c353260beee4b48b9a8dbcf3b54295f8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ozan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/ae933c49813a09d6fc4fe3396b17ba35/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ozan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/ae933c49813a09d6fc4fe3396b17ba35/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/ozan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4a12e0953e8de9e7245a817f9460129e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/ozan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4a12e0953e8de9e7245a817f9460129e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/ozan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f3d237e6076bff8f34369fd6aa47edbe/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/ozan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f3d237e6076bff8f34369fd6aa47edbe/AndroidManifest.xml:20:5-44
+INJECTED from /Users/ozan/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ozan/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ozan/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ozan/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ozan/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ozan/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ozan/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ozan/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml
